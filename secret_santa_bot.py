@@ -16,11 +16,8 @@ def make_pairs(users):
 def main():              
     
     """ Input the credential of your secret Santa bot """
-        # email_addrs = input('Enter Bot\'s email:') 
-        # passwrd     = input('Enter Bot\'s password:')
-    
-    email_addrs = 'oxbotmi@gmail.com' 
-    passwrd     = '(sane)_(inSane)!'
+    email_addrs = input('Enter Bot\'s email:') 
+    passwrd     = input('Enter Bot\'s password:')
     
     """ Instantiate the secret Santa bot """
     secret_santa_bot = EmailBot(email=email_addrs,

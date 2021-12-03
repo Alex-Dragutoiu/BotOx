@@ -1,5 +1,5 @@
 
-def read_participants(filename):
+def read_users(filename):
     participants = []    
     with open(filename, mode='r') as file:
         for line in file:

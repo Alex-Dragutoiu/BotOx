@@ -15,7 +15,7 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/Alex-Dragutoiu/BotOx',
     keywords='bot',
-    python_requires='>=3.8.8',
+    python_requires='>=3.7',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',

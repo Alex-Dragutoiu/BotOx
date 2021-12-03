@@ -1,1 +1,2 @@
 # BotOx
+BotOx API helps users create emailing bots that can send custom messages to multiple email addresses irrespective of the email provider of the receivers. At the moment, the API is relatively reduced and unstable.      
